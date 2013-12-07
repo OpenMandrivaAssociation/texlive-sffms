@@ -6,7 +6,7 @@
 # catalog-version 2.0
 Name:		texlive-sffms
 Version:	2.0
-Release:	3
+Release:	4
 Summary:	Typesetting science fiction/fantasy manuscripts
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/sffms
